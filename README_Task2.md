@@ -8,10 +8,8 @@ The training material is delivered through a **PowerPoint presentation** coverin
 - Introduction to phishing
 - Types of phishing attacks
 - Recognition techniques
-- Social engineering tactics
 - Best practices for safety
 - Real-world examples
-- Interactive quiz
 - Conclusion & key takeaways
 
 ---
